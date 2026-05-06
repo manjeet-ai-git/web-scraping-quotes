@@ -1,4 +1,4 @@
-# Web Scraping Project
+# web-scraping-quotes
 
 This is a basic web scraping project built using Python.
 
